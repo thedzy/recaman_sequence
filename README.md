@@ -1,4 +1,4 @@
-# convert_image_to_ascii.py
+# recaman_sequence_visualised.py and recaman_sequence.py
 
 Recamán's sequence of numbers visualised or calculated
 
@@ -63,6 +63,9 @@ optional arguments:
             Height of the window
             Default: 720
 ```
+
+## recaman_sequence.py
+No parameters
 
 ## Why?
 I liked the visualisation and wanted to be able to create variants of it or print it.
